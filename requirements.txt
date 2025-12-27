@@ -1,0 +1,5 @@
+paho-mqtt
+flask
+joblib
+numpy
+warnings
